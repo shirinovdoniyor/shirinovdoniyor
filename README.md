@@ -15,10 +15,10 @@
 ---
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shirinov_022)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doniyorshirinov)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirinovdoniyorfx01@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Doniyor_)
 
 ---
 
@@ -64,7 +64,7 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shirinov01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shirinov01&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirinov01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -73,27 +73,27 @@
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shirinov01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 📈 Contribution Graph:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yourusername)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shirinov01&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yourusername)
 
 ---
 
 ## 📈 GitHub Profile Summary:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirinov01&theme=github_dark)
 
 ---
 
 ## 🐍 Contribution Snake:
-![Snake animation](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/yourusername/Shirinov01/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 👁️ Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Shirinov01/count.svg)
 
 ---
 
