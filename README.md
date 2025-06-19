@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dilshodbek
+# Hi 👋, I'm Doniyorbek
 
 > *"The only sin is to make a choice without knowing you are making one."*
 > 
@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **Web Development Projects**
 - 🌱 I'm currently learning **Advanced Python & Django**
 - 💬 Ask me about **Python, Django, SQL, PostgreSQL, Telegram Bot**
-- 📫 How to reach me **absatoydev@gmail.com**
+- 📫 How to reach me **shirinovdoniyorfx01@gmail.com**
 - 🏢 Self Employed
 
 ---
