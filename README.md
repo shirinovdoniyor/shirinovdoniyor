@@ -96,19 +96,7 @@
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirinov01&theme=github_dark)
 
 ---
----
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
-</picture>
-
----
 
 ## 👁️ Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/Shirinov01/count.svg)
