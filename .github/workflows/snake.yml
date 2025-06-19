@@ -1,0 +1,8 @@
+![Snake animation](https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg)
+
+<!-- Yoki animatsiyali GIF -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
+</picture>
