@@ -13,7 +13,17 @@
 - 🏢 Self Employed
 
 ---
+## 🐍 Contribution Snake
 
+![Snake animation](https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shirinov01/Shirinov01/output/snake.svg">
+</picture>
+
+---
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Shirinov_022)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doniyorshirinov)
