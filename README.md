@@ -57,34 +57,34 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shirinov01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirinovdoniyor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shirinov01&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shirinovdoniyor&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirinov01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinovdoniyor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shirinov01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shirinovdoniyor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 📈 Contribution Graph:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shirinov01&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/yourusername)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shirinov01&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/shirinovdoniyor)
 
 ---
 
 ## 📈 GitHub Profile Summary:
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shirinov01&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirinovdoniyor&theme=github_dark)
 
 ---
 
 
 ## 👁️ Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/Shirinov01/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/shirinovdoniyor/count.svg)
 
 ---
 
